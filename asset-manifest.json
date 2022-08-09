@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fetch-Movies-Post-React/static/css/main.fceb9a65.css",
+    "main.js": "/Fetch-Movies-Post-React/static/js/main.ca3e2ef0.js",
+    "index.html": "/Fetch-Movies-Post-React/index.html",
+    "main.fceb9a65.css.map": "/Fetch-Movies-Post-React/static/css/main.fceb9a65.css.map",
+    "main.ca3e2ef0.js.map": "/Fetch-Movies-Post-React/static/js/main.ca3e2ef0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fceb9a65.css",
+    "static/js/main.ca3e2ef0.js"
+  ]
+}
